@@ -1,0 +1,6 @@
+## Interface: 80100
+## Title: Alcos-Tools-WoW-Addon
+## Author: Alco#9742
+## Version: 0.1
+
+main.lua
