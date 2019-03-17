@@ -1,10 +1,7 @@
 ## Interface: 80100
 ## Title: Alcos-Tools-WoW-Addon
 ## Author: Alco#9742
-<<<<<<< Upstream, based on fd3f416d05719b67eae4d5589b507e0b631692e3
-## Version: 0.2.1
-=======
-## Version: 0.2
->>>>>>> cf563f8 Squashed previous versions for security
+## Version: 0.5
 
+consts.lua
 main.lua
